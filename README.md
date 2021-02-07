@@ -4,7 +4,7 @@
  - [Round 6](https://github.com/cailllev/CyberSec_Public/blob/main/ctf/imaginary/Round6/README.md)
 
 ## SANS 
- - [participations](https://www.tomahawque.com/my-events?filter=finished)
+ - [events](https://www.tomahawque.com/my-events?filter=finished)
 
 ### Multi-Discipline 2020, National Event - SANS Switzerland
 - 60th / 140
