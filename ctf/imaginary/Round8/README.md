@@ -3,7 +3,7 @@
  points
 ## Place
  out of  players
-## Challenges solved (22 out of 28 total challenges)
+## Challenges solved ( out of  total challenges)
 ```
 
 ```
