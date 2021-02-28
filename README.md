@@ -1,12 +1,6 @@
 # CTFs
-<<<<<<< HEAD
 ## imaginary
 [repo](https://github.com/cailllev/CyberSec_Public/tree/master/ctf/imaginary)
-=======
-## [imaginary](https://imaginary.ml/)
- - [Round 5](https://github.com/cailllev/CyberSec_Public/blob/main/ctf/imaginary/Round5/README.md)
- - [Round 6](https://github.com/cailllev/CyberSec_Public/blob/main/ctf/imaginary/Round6/README.md)
->>>>>>> ae89be7de53ae7e4148660c9a60ba7808f8d0df5
 
 ## SANS 
  - [events](https://www.tomahawque.com/my-events?filter=finished)
