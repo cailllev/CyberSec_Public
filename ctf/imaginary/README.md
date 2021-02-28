@@ -15,3 +15,7 @@ Daily ctfs ranging from Crypto, Forensics, Pwn, Reversing, Web Exploits, Misc, .
  - friendly-rsa, Crypto (RSA), 200pts
  - Denso's Matrix, Forensics (QRCodes), 50pts
  - AreEsYay, Reversing and Crypto (RSA) (BUG), 200pts
+
+### Round 7
+ 
+### Round 8
